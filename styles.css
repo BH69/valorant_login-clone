@@ -158,3 +158,7 @@ body {
 .create {
     color: rgb(161, 161, 161);
 }
+
+a.hover {
+    color: black;
+}
